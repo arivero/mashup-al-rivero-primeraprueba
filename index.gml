@@ -1,4 +1,4 @@
-<gm:page title="Sample - Hello World" authenticate="false">
+<gm:page title="Sample - Hello Worbld" authenticate="false">
 
   <!--
     The Hello World application is a very simple demonstration of how to get
