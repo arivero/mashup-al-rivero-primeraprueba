@@ -8,7 +8,12 @@
     also be used).
     @author: GME Team
   -->
-
-  <h1>Hello World</h1>
+<Module>
+<ModulePrefs title="hello world example" />
+<Content type="html"><![CDATA[
+Hello, world! <h1>Hello World</h1>
+]]></Content>
+</Module>
+ 
 
 </gm:page>
